@@ -1,5 +1,4 @@
-game.StarterGui:SetCore("SendNotification", {
-		Title = "https://discord.gg/xCPkF86fRm";
-		Text = "Out Dated Join ^ for new";
-		Duration = 20;
-	})
+<h1>
+  <body>
+    <body style="background: white;" >
+  <h1> Your name</h1>
